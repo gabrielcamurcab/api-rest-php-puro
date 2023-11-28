@@ -1,0 +1,12 @@
+{
+    "name": "gabrielcamurcab/api-rest-php-puro",
+    "description": "API REST utilizando PHP Puro (Sem frameworks) - Baseado no bootcamp da DIO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gabriel Camurça",
+            "email": "projetosdocamurca@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,122 @@
+[
+    {
+      "user_id": 1,
+      "username": "Gabriel",
+      "user_email": "gabriel@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 2,
+      "username": "Ana",
+      "user_email": "ana@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 3,
+      "username": "Carlos",
+      "user_email": "carlos@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 4,
+      "username": "Mariana",
+      "user_email": "mariana@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 5,
+      "username": "Lucas",
+      "user_email": "lucas@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 6,
+      "username": "Isabela",
+      "user_email": "isabela@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 7,
+      "username": "Rafael",
+      "user_email": "rafael@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 8,
+      "username": "Juliana",
+      "user_email": "juliana@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 9,
+      "username": "Felipe",
+      "user_email": "felipe@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 10,
+      "username": "Amanda",
+      "user_email": "amanda@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 11,
+      "username": "Diego",
+      "user_email": "diego@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 12,
+      "username": "Fernanda",
+      "user_email": "fernanda@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 13,
+      "username": "Rodrigo",
+      "user_email": "rodrigo@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 14,
+      "username": "Camila",
+      "user_email": "camila@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 15,
+      "username": "Pedro",
+      "user_email": "pedro@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 16,
+      "username": "Larissa",
+      "user_email": "larissa@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 17,
+      "username": "Gustavo",
+      "user_email": "gustavo@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 18,
+      "username": "Renata",
+      "user_email": "renata@email.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 19,
+      "username": "Luciana",
+      "user_email": "luciana@email.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 20,
+      "username": "Vinicius",
+      "user_email": "vinicius@email.com",
+      "user_status": 1
+    }
+  ]  
